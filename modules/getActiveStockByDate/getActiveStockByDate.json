@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "6837c3fe12dd5b4be88ea9d2_ed6d808c-f570-47fc-a14c-04e77669ac4b",
+  "moduleUUID": "1e98acfb-f6a8-4347-b2ae-454beb35f0c5",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "spzjxqxxvh",
+        "sectionName": ""
+      }
+    ],
+    "name": "getActiveStockByDate"
+  }
+}
