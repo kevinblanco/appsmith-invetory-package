@@ -1,0 +1,30 @@
+{
+  "gitSyncId": "6837c3fe12dd5b4be88ea9d2_cd778e60-40ee-4d62-9408-9d31e35cb6d5",
+  "moduleUUID": "aca05179-c98a-48a5-896d-a61a74af6b44",
+  "type": "JS_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "gygonpcgoh",
+            "label": "validateAdjustmentData",
+            "propertyName": "inputs.validateAdjustmentData"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "ropddcpkoz",
+            "label": "calculateNewStockLevel",
+            "propertyName": "inputs.calculateNewStockLevel"
+          }
+        ],
+        "id": "ddllnkwvni",
+        "sectionName": ""
+      }
+    ],
+    "name": "stockUtils"
+  }
+}
