@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "6837c3fe12dd5b4be88ea9d2_3dd468c8-348b-4f45-9899-982eaa1e4d72",
+  "moduleUUID": "214d7ca6-d9dd-4f88-b950-e8b527b40cf2",
+  "type": "JS_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[\"{{{productId: 1, adjustmentType: 'Add', quantity: 1}}}\"]",
+            "id": "fgdsobtdav",
+            "label": "adjustStock",
+            "propertyName": "inputs.adjustStock"
+          }
+        ],
+        "id": "ahnarliuqz",
+        "sectionName": ""
+      }
+    ],
+    "name": "stockManagementActions"
+  }
+}

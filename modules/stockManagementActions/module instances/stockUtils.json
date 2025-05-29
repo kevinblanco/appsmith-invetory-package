@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "6837c3fe12dd5b4be88ea9d2_6bf78e60-13a1-4a53-a430-d68a24ccc19f",
+  "id": "stockManagementActions_stockUtils",
+  "moduleUUID": "aca05179-c98a-48a5-896d-a61a74af6b44",
+  "packageUUID": "2d00bd6c-8e5d-4588-901e-bba86f6ddffb",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {
+      "calculateNewStockLevel": "[]",
+      "validateAdjustmentData": "[]"
+    },
+    "moduleId": "stockManagementActions",
+    "moduleInputs": {
+      "gygonpcgoh": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "gygonpcgoh",
+        "label": "validateAdjustmentData",
+        "propertyName": "inputs.validateAdjustmentData"
+      },
+      "ropddcpkoz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ropddcpkoz",
+        "label": "calculateNewStockLevel",
+        "propertyName": "inputs.calculateNewStockLevel"
+      }
+    },
+    "name": "stockUtils"
+  }
+}

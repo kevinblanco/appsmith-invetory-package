@@ -1,0 +1,13 @@
+{
+  "gitSyncId": "6837c49412dd5b4be88ea9e1_aaf7e83d-b578-4ffa-9053-53d86d9f59bc",
+  "id": "stockManagementActions_stockManagementActions",
+  "isPublic": true,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "stockManagementActions",
+    "name": "stockManagementActions",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}
